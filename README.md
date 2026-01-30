@@ -1,2 +1,2 @@
-# An-lisis-y-visualizaci-n-de-datos
+# Análisis y visualización de datos
 De la asignatura IND-2501
